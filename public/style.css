@@ -451,3 +451,9 @@ nav .fa-solid {
     margin-top: -40px;
     display: block;
 }
+
+.put {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
